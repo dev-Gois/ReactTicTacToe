@@ -18,6 +18,8 @@ ReactTicTacToe offers the following key features:
 
 ## 🚀 Getting Started
 
+U can just access the link: https://dev-gois.github.io/ReactTicTacToe/ and enjoy! :D
+
 To run the ReactToDo project locally, follow these steps:
 
 1. Clone the GitHub repository:
